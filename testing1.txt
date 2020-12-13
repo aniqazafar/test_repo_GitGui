@@ -8,3 +8,29 @@ cout<< "hiii";
 
 return 0;
 }
+
+
+master <-- head
+========
+master <-- head
+    \
+     Aniqa
+========
+after checkout Aniqa:
+master
+   \
+    Aniqa <--head
+=============
+after commit:
+master
+     \
+     Aniqa
+	|
+     my second commit <--head
+===========
+after checking out master:
+master <-head
+    \
+    Aniqa
+     |
+    my second commit
