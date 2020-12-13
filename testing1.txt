@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+
+int main ()
+{
+cout << "HELLO WORLD";
+cout<< "hiii";
+
+cout<< "my 1st commit in Aniqa2 branch-changes made";
+}
